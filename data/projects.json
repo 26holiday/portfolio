@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "AI based Video editing tool",
+    "description": "An AI-powered video editing tool that processes user prompts to automatically edit videos according to specified instructions. It streamlines the editing workflow by converting text commands into precise video adjustments.",
+    "image": "/projects/ai-video-editor.png",
+    "technologies": ["Python", "GEMINI API", "FFmpeg", "Django", "LangChain"],
+    "category": "Full-Stack",
+    "type": "Personal Project",
+    "demoUrl": "https://demo-ecommerce.com",
+    "githubUrl": "https://github.com/26holiday/AI-Editor",
+    "featured": true,
+    "completedAt": "2024-12-31"
+  },
+  {
+    "id": 2,
+    "title": "AI agent for physiotherapy assistance and appointment booking",
+    "description": "A specialized AI agent designed to assist with physiotherapy-related queries and facilitate appointment bookings. It provides personalized guidance and support for patients seeking physiotherapy services.",
+    "image": "/projects/ai-agent.png",
+    "technologies": ["Python", "GEMINI API", "LangChain", "PostgreSQL", "Streamlit"],
+    "category": "Full-Stack",
+    "type": "Personal Project",
+    "demoUrl": "https://task-manager-demo.com",
+    "githubUrl": "https://github.com/26holiday/Medical-agent",
+    "featured": true,
+    "completedAt": "2025-05-30"
+  },
+  {
+    "id": 3,
+    "title": "Django SQL Querying API",
+    "description": "A backend application built with Python and Django that provides a RESTful API for querying a database based on user-submitted prompts. It utilizes Django REST framework for API development, includes OpenAPI schema definitions for endpoints, and is containerized with Docker. To be deployed on Coolify",
+    "technologies": ["Python", "Django", "Directus", "Django REST Framework", "PostgreSQL", "Docker", "Coolify"],
+    "category": "Backend",
+    "type": "Personal Project",
+    "demoUrl": "https://django-query-api-demo.com",
+    "githubUrl": "https://github.com/26holiday/sql-querying-app",
+    "featured": true,
+    "completedAt": "2024-06-15"
+  },
+  {
+    "id": 4,
+    "title": "OpenCV Photo Editor",
+    "description": "A versatile image editing tool built using OpenCV, a powerful open-source computer vision and image processing library. This project empowers users to manipulate, enhance, and color grade their images with precision and ease.",
+    "image": "/projects/photo-editor.jpg",
+    "technologies": ["Python", "OpenCV", "NumPy", "PyQt", "Matplotlib"],
+    "category": "Desktop Application",
+    "type": "Personal Project",
+    "demoUrl": "https://opencv-photo-editor-demo.com",
+    "githubUrl": "https://github.com/26holiday/photo-editor",
+    "featured": true,
+    "completedAt": "2024-08-15"
+  }
+]

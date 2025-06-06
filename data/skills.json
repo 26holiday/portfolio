@@ -1,0 +1,60 @@
+{
+  "technical": [
+    {
+      "category": "Programming Languages",
+      "skills": [
+        { "name": "JavaScript", "level": 90 },
+        { "name": "TypeScript", "level": 80 },
+        { "name": "Python", "level": 90 },
+        { "name": "Java", "level": 95 },
+        { "name": "C++", "level": 70 }
+      ]
+    },
+    {
+      "category": "Frontend Development",
+      "skills": [
+        { "name": "React", "level": 90 },
+        { "name": "Next.js", "level": 85 },
+        { "name": "HTML/CSS", "level": 95 },
+        { "name": "Tailwind CSS", "level": 88 }
+      ]
+    },
+    {
+      "category": "Backend Development",
+      "skills": [
+        { "name": "Node.js", "level": 85 },
+        { "name": "Express.js", "level": 80 },
+        { "name": "MongoDB", "level": 75 },
+        { "name": "PostgreSQL", "level": 70 },
+        { "name": "Django", "level": 90 },
+        { "name": "Flask", "level": 70 },
+        { "name": "LangChain", "level": 75 },
+        { "name": "LangGraph", "level": 70 }
+      ]
+    },
+    {
+      "category": "Tools & Technologies",
+      "skills": [
+        { "name": "Git", "level": 90 },
+        { "name": "Docker", "level": 60 },
+        { "name": "AWS", "level": 55 },
+        { "name": "Postman", "level": 80 },
+        { "name": "Coolify", "level": 60 },
+        { "name": "Flowise", "level": 80 },
+        { "name": "OpenAI API", "level": 85 },
+        { "name": "Directus", "level": 70 },
+        { "name": "VS Code", "level": 95 }
+      ]
+    }
+  ],
+  "soft": [
+    "Problem Solving",
+    "Team Collaboration",
+    "Communication",
+    "Project Management",
+    "Time Management",
+    "Adaptability",
+    "Critical Thinking",
+    "Leadership"
+  ]
+}

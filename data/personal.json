@@ -1,0 +1,18 @@
+{
+  "name": "Rana Shahzaib",
+  "title": "Computer Science Student",
+  "subtitle": "Full-Stack Developer & Problem Solver",
+  "bio": "I'm a passionate computer science student with a love for creating innovative solutions. I enjoy working on both personal projects and client work, always striving to deliver high-quality software that makes a difference.",
+  "location": "Lahore, Pakistan",
+  "email": "texashouse003@gmail.com",
+  "phone": "+92 321 4250455",
+  "website": "https://yourwebsite.com",
+  "social": {
+    "github": "https://github.com/26holiday",
+    "linkedin": "https://linkedin.com/in/rshahzaibn",
+    "twitter": "https://twitter.com/yourusername",
+    "instagram": "https://instagram.com/rshahzaibn"
+  },
+  "resume": "/resume.pdf",
+  "profileImage": "/profile.jpg"
+}

@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "title": "Freelance AI Agent Developer",
+    "company": "Self-Employed",
+    "type": "Freelance",
+    "location": "Remote",
+    "duration": "Jan 2024 - Present",
+    "description": "Designed and built specialized AI agents and agentic chatbots for various domains including finance and healthcare. Created intelligent virtual assistants capable of providing personalized guidance and solutions.",
+    "achievements": [
+      "Developed 5 AI agents with over 90% accuracy in task completion",
+      "Increased client engagement by 40% through personalized AI solutions",
+      "Received positive feedback from clients for innovative AI implementations"
+    ],
+    "technologies": ["React", "Next.js", "Django", "Python", "TypeScript", "Tailwind CSS", "OpenAI API", "LangChain", "Pinecone", "PostgreSQL", "Coolify", "Directus"]
+  },
+  {
+    "id": 2,
+    "title": "AI Flow Developer",
+    "company": "Self-Employed",
+    "type": "Freelance",
+    "location": "Remote",
+    "duration": "Feb 2024 - Present",
+    "description": "Designed and implemented agentic workflows using Flowise, including custom component development. Self-deployed solutions on dedicated servers to ensure optimal performance and reliability.",
+    "achievements": [
+      "Developed custom components for Flowise to extend platform capabilities",
+      "Successfully deployed and managed agentic flows on dedicated infrastructure",
+      "Created end-to-end AI workflow solutions for specialized use cases"
+    ],
+    "technologies": ["Flowise", "JavaScript", "Node.js", "Docker", "Linux", "REST API", "LLM Integration", "Server Management"]
+  },
+  {
+    "id": 3,
+    "title": "Backend Developer",
+    "company": "Self-Employed",
+    "type": "Freelance",
+    "location": "Remote",
+    "duration": "jan 2025 - Present",
+    "description": "Implemented and customized Directus headless CMS for client projects. Developed dedicated components and extensions to enhance backend management capabilities, creating seamless content workflows and administrative interfaces.",
+    "achievements": [
+      "Created custom Directus components to streamline content management processes",
+      "Designed and implemented efficient database schemas for optimized performance",
+      "Integrated Directus with frontend applications for seamless data flow"
+    ],
+    "technologies": ["Directus", "Node.js", "TypeScript", "REST API", "GraphQL", "PostgreSQL", "Docker", "Git"]
+  },
+  {
+    "id": 4,
+    "title": "Game developer",
+    "company": "MLabs by Mindstorm Studios",
+    "type": "Internship",
+    "location": "Hybrid",
+    "duration": "Jun 2023 - Aug 2023",
+    "description": "Learned Unity game development framework and created a complete game for a game Jam. Acquired skills in C# programming, game mechanics implementation, and interactive UI design while working in a professional studio environment.",
+    "achievements": [
+      "Learned Unity and C# programming",
+      "Made a complete game for a game jam",
+      "Collaborated with a team of developers and designers to create engaging gameplay experiences"
+    ],
+    "technologies": ["Unity", "C#", "Git", "Visual Studio", "Blender"]
+  },
+  {
+    "id": 5,
+    "title": "Computer Science Student",
+    "company": "Comsats University Islamabad",
+    "type": "Education",
+    "location": "Lahore, Pakistan",
+    "duration": "Sep 2022 - Present",
+    "description": "Pursuing Bachelor's degree in Computer Science majoring in AI and a focus on software engineering as well. Relevant coursework includes Data Structures, Algorithms, and Database Systems.",
+    "achievements": [
+      "Completed coursework in Data Structures, Algorithms, and Database Systems",
+      "GPA: 3.64/4.0"
+    ],
+    "technologies": ["Java", "Python", "C++", "SQL", "Git"]
+  }
+]
