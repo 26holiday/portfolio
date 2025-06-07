@@ -66,11 +66,10 @@ const Header = () => {
       }`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="flex justify-between items-center py-4">
-          {/* Logo with enhanced effects */}
+        <div className="flex justify-between items-center py-4">          {/* Logo with enhanced effects */}
           <div className="relative group">
-            <div className="text-2xl font-bold hero-accent floating-animation glow-effect cursor-pointer flex items-center gap-2">
-              <Sparkles className="w-5 h-5 hero-accent animate-pulse" />
+            <div className={`text-2xl font-bold ${navItems.find(item => item.id === activeSection)?.colorClass || 'hero-accent'} floating-animation glow-effect cursor-pointer flex items-center gap-2 transition-all duration-500`}>
+              <Sparkles className={`w-5 h-5 ${navItems.find(item => item.id === activeSection)?.colorClass || 'hero-accent'} animate-pulse transition-all duration-500`} />
               Portfolio
             </div>
           </div>
