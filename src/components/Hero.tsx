@@ -16,9 +16,8 @@ const Hero = ({ personalInfo }: HeroProps) => {
       aboutSection.scrollIntoView({ behavior: "smooth" })
     }
   }
-
   return (
-    <section id="hero" className="min-h-screen flex items-center justify-center gradient-bg px-4 sm:px-6 lg:px-8">
+    <section id="hero" className="min-h-[90vh] flex items-center justify-center gradient-bg px-4 sm:px-6 lg:px-8 pt-20">
       <div className="max-w-4xl mx-auto text-center">
         <motion.div
           initial={{ opacity: 0, y: 20 }}

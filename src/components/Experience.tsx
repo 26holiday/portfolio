@@ -414,7 +414,7 @@ const Experience = ({ experience }: ExperienceProps) => {
   )
 
   return (
-    <section id="experience" className="py-20 bg-background relative overflow-hidden">
+    <section id="experience" className="py-10 bg-background relative overflow-hidden">
       {/* Background decoration */}
       <div className="absolute inset-0 opacity-5">
         <motion.div

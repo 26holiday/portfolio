@@ -348,7 +348,7 @@ const Projects = ({ projects }: ProjectsProps) => {
   )
 
   return (
-    <section id="projects" className="py-20 bg-background relative overflow-hidden">
+    <section id="projects" className="py-10 bg-background relative overflow-hidden">
       {/* Background decoration */}
       <div className="absolute inset-0 opacity-5">
         <motion.div

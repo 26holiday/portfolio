@@ -43,6 +43,7 @@
   --radius-xl: calc(var(--radius) + 4px);
 }
 
+
 /* Dark space minimalist theme - default */
 :root {
   /* Dark theme as default */
@@ -112,6 +113,11 @@ body {
   color: oklch(var(--foreground));
   min-height: 100vh;
 }
+
+body {
+  zoom: 0.8;
+}
+
 
 /* Enhanced space gradient background */
 .gradient-bg {

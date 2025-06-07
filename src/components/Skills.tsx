@@ -30,7 +30,7 @@ const Skills = ({ skills }: SkillsProps) => {
   }
 
   return (
-    <section id="skills" className="py-20 bg-background relative">
+    <section id="skills" className="py-10 bg-background relative">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <motion.div
           variants={efficientContainerVariants}
